@@ -33,11 +33,11 @@ img {
 header {
   display: flex;
   justify-content: space-between;
-  padding: .5rem;
+  padding: 0.5rem;
 }
 
 p {
-  padding: .75rem;
+  padding: 0.75rem;
 }
 
 .logo {
@@ -142,13 +142,13 @@ button {
   width: 100%;
   background-color: var(--dark-grey);
   color: var(--light-grey);
-  opacity: .8;
+  opacity: 0.8;
 }
 
 .mission p {
   margin: 0 auto;
   width: 50%;
-  text-align: center;;
+  text-align: center;
 }
 
 .products {
