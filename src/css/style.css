@@ -113,7 +113,6 @@ button {
 
 .divider {
   border-bottom: 2px solid var(--test-color);
-  background-color: red;
 }
 
 /* End utility classes */
